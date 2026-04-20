@@ -1,0 +1,5 @@
+#Energia E=mc^2
+maa=float(input("Ingrese la masa (kg): "))
+velocidad_luz=3e8
+energia=masa*velocidad_luz**2
+print(f"La energia equivalente es: {energia} joules")
